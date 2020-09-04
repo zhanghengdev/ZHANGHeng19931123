@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 😄 I am a second year PhD student in <a href="https://team.inria.fr/lacodam/">LACODAM</a> team at <a href="https://www.irisa.fr/en">IRISA/INRIA Rennes</a> laboratory. 
+- 👯 I am working under the supervision of Prof. <a href="http://people.irisa.fr/Elisa.Fromont/">Elisa FROMONT</a> and Prof. <a href="http://people.irisa.fr/Sebastien.Lefevre/">Sébastien LEFEVRE</a>. 
+- 🔭 In the same time, I work as a Deep learning R&D Engineer at <a href="https://www.atermes.fr/en/index">ATERMES</a> in Paris. 
+- 🤔 My current research interest is deep learning for <b>multispectral</b> object detection, <b>small</b> object detection and <b>video</b> object detection.
+             
+
 <!--
 **ZHANGHeng19931123/ZHANGHeng19931123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
