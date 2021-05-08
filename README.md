@@ -6,4 +6,4 @@
 - 🤔 My current research interest is deep learning for <b>multispectral</b> object detection, <b>small</b> object detection and <b>video</b> object detection.
              
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zhangheng19931123&show_icons=true&include_all_commits=true&count_private=true"/> </p> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zhangheng19931123&show_icons=true&include_all_commits=true&count_private=true"/> </p> 
